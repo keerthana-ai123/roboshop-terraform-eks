@@ -230,3 +230,5 @@ upgrade_addons_to_latest_compatible(){
 
 
 upgrade_addons_to_latest_compatible "$EKS_TARGET_VERSION"
+
+

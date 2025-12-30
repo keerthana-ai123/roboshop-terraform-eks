@@ -7,9 +7,9 @@ variable "environment" {
 }
 
 variable "domain_name" {
-    default = "techevolv.fun"
+    default = "daws86s.fun"
 }
 
 variable "zone_id" {
-    default = "Z10407763GGQ6NFK3DU2A"
+    default = "Z0948150OFPSYTNVYZOY"
 }
